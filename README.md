@@ -20,7 +20,7 @@ Our goal is to organize AI content in a clear, scalable, and accessible way for 
 Want to contribute? Check:
 
 - [How to contribute?](/CONTRIBUTING.md)
-- [Project structure template](/repoAI_template/README.md)
+- [Project structure template](https://github.com/Liga-IA/RepoAI/tree/template)
 
 ## 📚 Repository Organization
 
